@@ -1,0 +1,30 @@
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\bin\Debug\Sorting.exe
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\bin\Debug\Sorting.pdb
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\MainWindow.baml
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\MainWindow.g.cs
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\App.g.cs
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting_MarkupCompile.cache
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.g.resources
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.Properties.Resources.resources
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.exe
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting.pdb
+c:\users\wochi\documents\visual studio 2010\Projects\Sorting\Sorting\obj\x86\Debug\Sorting_MarkupCompile.lref
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\App.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting_MarkupCompile.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.exe
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting_MarkupCompile.lref
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\MainWindow.baml
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.g.resources
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.Properties.Resources.resources
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Sorting\Sorting\obj\x86\Debug\Sorting.exe.config

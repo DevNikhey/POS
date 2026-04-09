@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62091334-B6DA-4585-A5A0-BF898068A4E2}|Sorting\\Sorting.csproj|C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Sorting\\sorting\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62091334-B6DA-4585-A5A0-BF898068A4E2}|Sorting\\Sorting.csproj|solutionrelative:sorting\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62091334-B6DA-4585-A5A0-BF898068A4E2}|Sorting\\Sorting.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\sorting\\sorting\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62091334-B6DA-4585-A5A0-BF898068A4E2}|Sorting\\Sorting.csproj|solutionrelative:sorting\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Sorting\\Sorting\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sorting\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Sorting\\Sorting\\MainWindow.xaml",
+              "RelativeToolTip": "Sorting\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T11:41:32.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Sorting\\Sorting\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sorting\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Sorting\\Sorting\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sorting\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAYwCoBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:41:22.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

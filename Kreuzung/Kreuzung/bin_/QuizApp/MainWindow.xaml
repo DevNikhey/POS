@@ -1,0 +1,155 @@
+<Window x:Class="QuizApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="C# Quiz App" Height="620" Width="520"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"
+        Background="#1E1E2E">
+
+    <Window.Resources>
+        <!-- Shared button style -->
+        <Style x:Key="OptionButton" TargetType="Button">
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Padding" Value="12,10"/>
+            <Setter Property="Margin" Value="0,4"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="Background" Value="#313244"/>
+            <Setter Property="Foreground" Value="#CDD6F4"/>
+            <Setter Property="BorderBrush" Value="#585B70"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="6"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#45475A"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#89B4FA"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="AccentButton" TargetType="Button">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Padding" Value="24,10"/>
+            <Setter Property="Background" Value="#89B4FA"/>
+            <Setter Property="Foreground" Value="#1E1E2E"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                                Background="{TemplateBinding Background}"
+                                CornerRadius="6"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#B4D0FB"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="24">
+        <!-- ═══════════════ START SCREEN ═══════════════ -->
+        <StackPanel x:Name="StartScreen" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="C# Quiz" FontSize="36" FontWeight="Bold"
+                       Foreground="#89B4FA" HorizontalAlignment="Center" Margin="0,0,0,8"/>
+            <TextBlock Text="Test your C# knowledge" FontSize="14"
+                       Foreground="#A6ADC8" HorizontalAlignment="Center" Margin="0,0,0,28"/>
+
+            <!-- Category filter -->
+            <TextBlock Text="Category" Foreground="#CDD6F4" FontSize="13" Margin="0,0,0,4"/>
+            <ComboBox x:Name="CategoryCombo" Width="280" Margin="0,0,0,12"
+                      FontSize="14" Padding="6,4"/>
+
+            <!-- Difficulty filter -->
+            <TextBlock Text="Difficulty" Foreground="#CDD6F4" FontSize="13" Margin="0,0,0,4"/>
+            <ComboBox x:Name="DifficultyCombo" Width="280" Margin="0,0,0,24"
+                      FontSize="14" Padding="6,4"/>
+
+            <Button Content="Start Quiz" Style="{StaticResource AccentButton}"
+                    Width="280" Click="StartQuiz_Click" Margin="0,0,0,10"/>
+            <Button Content="Load External CSV..." Width="280"
+                    FontSize="13" Padding="8,6" Cursor="Hand"
+                    Background="#45475A" Foreground="#CDD6F4" BorderThickness="0"
+                    Click="LoadCsv_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6"
+                                Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+
+        <!-- ═══════════════ QUIZ SCREEN ═══════════════ -->
+        <StackPanel x:Name="QuizScreen" Visibility="Collapsed">
+            <!-- Status bar -->
+            <TextBlock x:Name="StatusLabel" FontSize="14" Foreground="#A6ADC8"
+                       HorizontalAlignment="Center" Margin="0,0,0,6"/>
+
+            <!-- Progress bar -->
+            <Grid Margin="0,0,0,16">
+                <ProgressBar x:Name="ProgressBar" Height="8" Minimum="0" Maximum="100"
+                             Background="#313244" Foreground="#89B4FA"
+                             BorderThickness="0"/>
+                <TextBlock x:Name="ProgressLabel" FontSize="11" Foreground="#6C7086"
+                           HorizontalAlignment="Right" Margin="0,-2,0,0"
+                           VerticalAlignment="Bottom"/>
+            </Grid>
+
+            <!-- Question -->
+            <Border Background="#313244" CornerRadius="8" Padding="20,16" Margin="0,0,0,20"
+                    BorderBrush="#585B70" BorderThickness="1">
+                <TextBlock x:Name="QuestionLabel" FontSize="18" Foreground="#CDD6F4"
+                           TextWrapping="Wrap" LineHeight="26"/>
+            </Border>
+
+            <!-- Answer feedback -->
+            <TextBlock x:Name="FeedbackLabel" FontSize="15" FontWeight="SemiBold"
+                       HorizontalAlignment="Center" Margin="0,0,0,10"
+                       Visibility="Collapsed"/>
+
+            <!-- Option buttons -->
+            <Button x:Name="BtnA" Style="{StaticResource OptionButton}" Click="Answer_Click" Tag="A"/>
+            <Button x:Name="BtnB" Style="{StaticResource OptionButton}" Click="Answer_Click" Tag="B"/>
+            <Button x:Name="BtnC" Style="{StaticResource OptionButton}" Click="Answer_Click" Tag="C"/>
+            <Button x:Name="BtnD" Style="{StaticResource OptionButton}" Click="Answer_Click" Tag="D"/>
+        </StackPanel>
+
+        <!-- ═══════════════ RESULT SCREEN ═══════════════ -->
+        <StackPanel x:Name="ResultScreen" Visibility="Collapsed"
+                    VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Quiz Complete!" FontSize="32" FontWeight="Bold"
+                       Foreground="#A6E3A1" HorizontalAlignment="Center" Margin="0,0,0,16"/>
+            <TextBlock x:Name="ScoreLabel" FontSize="20" Foreground="#CDD6F4"
+                       HorizontalAlignment="Center" Margin="0,0,0,6"/>
+            <TextBlock x:Name="PercentLabel" FontSize="48" FontWeight="Bold"
+                       HorizontalAlignment="Center" Margin="0,0,0,24"/>
+            <Button Content="Try Again" Style="{StaticResource AccentButton}"
+                    Width="280" Click="TryAgain_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

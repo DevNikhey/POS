@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\philosophen\\philosophen\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|solutionrelative:philosophen\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\philosophen\\philosophen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|solutionrelative:philosophen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\philosophen\\philosophen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|solutionrelative:philosophen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\philosophen\\philosophen\\fork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4CC0BC1-302C-4BE4-B233-13A85119AFAF}|Philosophen\\Philosophen.csproj|solutionrelative:philosophen\\fork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Philosophen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Philosophen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:10:33.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Philosopher.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\Philosopher.cs",
+              "RelativeDocumentMoniker": "Philosophen\\Philosopher.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\Philosopher.cs",
+              "RelativeToolTip": "Philosophen\\Philosopher.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:32:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fork.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\Fork.cs",
+              "RelativeDocumentMoniker": "Philosophen\\Fork.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\Fork.cs",
+              "RelativeToolTip": "Philosophen\\Fork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:29:49.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Philosophen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Philosophen\\Philosophen\\MainWindow.xaml",
+              "RelativeToolTip": "Philosophen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-16T12:14:21.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

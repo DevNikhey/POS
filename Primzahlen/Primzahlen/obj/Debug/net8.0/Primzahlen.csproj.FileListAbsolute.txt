@@ -1,0 +1,14 @@
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.exe
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.deps.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.runtimeconfig.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\bin\Debug\net8.0\Primzahlen.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.AssemblyInfoInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.AssemblyInfo.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.csproj.CoreCompileInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\refint\Primzahlen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.genruntimeconfig.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\Primzahlen\Primzahlen\obj\Debug\net8.0\ref\Primzahlen.dll

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\ChatSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300E80F1-32CC-4280-B6A4-A89A0AE16364}|ChatServer\\ChatServer.csproj|c:\\htl4\\pos\\chatsolution\\chatserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E80F1-32CC-4280-B6A4-A89A0AE16364}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E80F1-32CC-4280-B6A4-A89A0AE16364}|ChatServer\\ChatServer.csproj|c:\\htl4\\pos\\chatsolution\\chatserver\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300E80F1-32CC-4280-B6A4-A89A0AE16364}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EA2E-BA25-45A2-B307-EBCC8C76E595}|ChatClient\\ChatClient.csproj|c:\\htl4\\pos\\chatsolution\\chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF9EA2E-BA25-45A2-B307-EBCC8C76E595}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\chatpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\chatpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9EA2E-BA25-45A2-B307-EBCC8C76E595}|ChatClient\\ChatClient.csproj|c:\\htl4\\pos\\chatsolution\\chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAF9EA2E-BA25-45A2-B307-EBCC8C76E595}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\network\\networkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\network\\networkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\profileimagepayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\profileimagepayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300E80F1-32CC-4280-B6A4-A89A0AE16364}|ChatServer\\ChatServer.csproj|c:\\htl4\\pos\\chatsolution\\chatserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{300E80F1-32CC-4280-B6A4-A89A0AE16364}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\chatroomuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\chatroomuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\registerpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\registerpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|c:\\htl4\\pos\\chatsolution\\chatshared\\models\\loginpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F3BFFA-B149-4D94-8C0D-7173159506DD}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\models\\loginpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatPayload.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ChatPayload.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\ChatPayload.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ChatPayload.cs",
+              "RelativeToolTip": "ChatShared\\Models\\ChatPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T06:57:00.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatServer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:35:16.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatClient\\MainWindow.xaml",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T14:23:03.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:23:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\ChatRoom.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ChatRoom.cs",
+              "RelativeToolTip": "ChatShared\\Models\\ChatRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:10:18.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\User.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\User.cs",
+              "RelativeToolTip": "ChatShared\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:09:46.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\Message.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\Message.cs",
+              "RelativeToolTip": "ChatShared\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:10:03.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatRoomUser.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ChatRoomUser.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\ChatRoomUser.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ChatRoomUser.cs",
+              "RelativeToolTip": "ChatShared\\Models\\ChatRoomUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:26:12.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkMessage.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Network\\NetworkMessage.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Network\\NetworkMessage.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Network\\NetworkMessage.cs",
+              "RelativeToolTip": "ChatShared\\Network\\NetworkMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:10:38.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatServer\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatDbContext.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatServer\\ChatDbContext.cs",
+              "RelativeToolTip": "ChatServer\\ChatDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:39:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileImagePayload.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ProfileImagePayload.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\ProfileImagePayload.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\ProfileImagePayload.cs",
+              "RelativeToolTip": "ChatShared\\Models\\ProfileImagePayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:56:40.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatServer\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatServer\\MainWindow.xaml",
+              "RelativeToolTip": "ChatServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T14:35:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterPayload.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\RegisterPayload.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\RegisterPayload.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\RegisterPayload.cs",
+              "RelativeToolTip": "ChatShared\\Models\\RegisterPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:07:31.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPayload.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\LoginPayload.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Models\\LoginPayload.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\ChatSolution\\ChatShared\\Models\\LoginPayload.cs",
+              "RelativeToolTip": "ChatShared\\Models\\LoginPayload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:23:41.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

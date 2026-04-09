@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\raucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\raucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\dreiraucher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\dreiraucher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\dreiraucher\\dreiraucher\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029C60E8-E646-4116-9F12-7AA2B12EE9C6}|DreiRaucher\\DreiRaucher.csproj|solutionrelative:dreiraucher\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Table.cs",
+              "RelativeDocumentMoniker": "DreiRaucher\\Table.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Table.cs",
+              "RelativeToolTip": "DreiRaucher\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:43:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DreiRaucher",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\DreiRaucher.csproj",
+              "RelativeDocumentMoniker": "DreiRaucher\\DreiRaucher.csproj",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\DreiRaucher.csproj",
+              "RelativeToolTip": "DreiRaucher\\DreiRaucher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T11:37:27.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Raucher.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Raucher.cs",
+              "RelativeDocumentMoniker": "DreiRaucher\\Raucher.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Raucher.cs",
+              "RelativeToolTip": "DreiRaucher\\Raucher.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:38:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DreiRaucher\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DreiRaucher\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:35:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Dealer.cs",
+              "RelativeDocumentMoniker": "DreiRaucher\\Dealer.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Dealer.cs",
+              "RelativeToolTip": "DreiRaucher\\Dealer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:58:15.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DreiRaucher\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\MainWindow.xaml",
+              "RelativeToolTip": "DreiRaucher\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T11:35:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Resource.cs",
+              "RelativeDocumentMoniker": "DreiRaucher\\Resource.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\DreiRaucher\\DreiRaucher\\Resource.cs",
+              "RelativeToolTip": "DreiRaucher\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:43:10.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A204C17-A18E-4244-B7F1-54620173E048}|simplChatClient\\simplChatClient.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A204C17-A18E-4244-B7F1-54620173E048}|simplChatClient\\simplChatClient.csproj|solutionrelative:simplchatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22D37E6-E486-48E8-825D-517C13D0FFE3}|simplChatServer\\simplChatServer.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22D37E6-E486-48E8-825D-517C13D0FFE3}|simplChatServer\\simplChatServer.csproj|solutionrelative:simplchatserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A204C17-A18E-4244-B7F1-54620173E048}|simplChatClient\\simplChatClient.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A204C17-A18E-4244-B7F1-54620173E048}|simplChatClient\\simplChatClient.csproj|solutionrelative:simplchatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22D37E6-E486-48E8-825D-517C13D0FFE3}|simplChatServer\\simplChatServer.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E22D37E6-E486-48E8-825D-517C13D0FFE3}|simplChatServer\\simplChatServer.csproj|solutionrelative:simplchatserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5875C-72F5-4050-8E04-DCDD1924D3CC}|simplChatShared\\simplChatShared.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatshared\\network\\networkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D5875C-72F5-4050-8E04-DCDD1924D3CC}|simplChatShared\\simplChatShared.csproj|solutionrelative:simplchatshared\\network\\networkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5875C-72F5-4050-8E04-DCDD1924D3CC}|simplChatShared\\simplChatShared.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatshared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D5875C-72F5-4050-8E04-DCDD1924D3CC}|simplChatShared\\simplChatShared.csproj|solutionrelative:simplchatshared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5875C-72F5-4050-8E04-DCDD1924D3CC}|simplChatShared\\simplChatShared.csproj|c:\\htl4\\pos\\\u00FCben\\simplchatjson\\simplchatshared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D5875C-72F5-4050-8E04-DCDD1924D3CC}|simplChatShared\\simplChatShared.csproj|solutionrelative:simplchatshared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatShared\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "simplChatShared\\Models\\Message.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatShared\\Models\\Message.cs",
+              "RelativeToolTip": "simplChatShared\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:20:34.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatShared\\Models\\User.cs",
+              "RelativeDocumentMoniker": "simplChatShared\\Models\\User.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatShared\\Models\\User.cs",
+              "RelativeToolTip": "simplChatShared\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:20:11.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkMessage.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatShared\\Network\\NetworkMessage.cs",
+              "RelativeDocumentMoniker": "simplChatShared\\Network\\NetworkMessage.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatShared\\Network\\NetworkMessage.cs",
+              "RelativeToolTip": "simplChatShared\\Network\\NetworkMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:04:20.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "simplChatClient\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatClient\\MainWindow.xaml",
+              "RelativeToolTip": "simplChatClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T05:00:28.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "simplChatClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "simplChatClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAswJoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:00:28.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "simplChatServer\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatServer\\MainWindow.xaml",
+              "RelativeToolTip": "simplChatServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T05:00:08.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "simplChatServer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\\u00DCben\\simplChatJson\\simplChatServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "simplChatServer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowMQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:00:06.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

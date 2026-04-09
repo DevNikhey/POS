@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "PenteNetwork/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PenteNetwork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PenteNetwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PenteNetwork/1.0.0": {
+      "type": "project",
+      "path": "../PenteNetwork/PenteNetwork.csproj",
+      "msbuildProject": "../PenteNetwork/PenteNetwork.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "PenteNetwork >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nikhe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nikhe\\Documents\\Niklas\\Projects\\learn_platform\\Games\\Pente\\PenteClient\\PenteClient.csproj",
+      "projectName": "PenteClient",
+      "projectPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Projects\\learn_platform\\Games\\Pente\\PenteClient\\PenteClient.csproj",
+      "packagesPath": "C:\\Users\\nikhe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Projects\\learn_platform\\Games\\Pente\\PenteClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nikhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\nikhe\\Documents\\Niklas\\Projects\\learn_platform\\Games\\Pente\\PenteNetwork\\PenteNetwork.csproj": {
+              "projectPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Projects\\learn_platform\\Games\\Pente\\PenteNetwork\\PenteNetwork.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

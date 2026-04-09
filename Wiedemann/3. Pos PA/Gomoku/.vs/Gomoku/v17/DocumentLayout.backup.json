@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\Gomoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\controller\\networkgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\controller\\networkgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\network\\networkserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\network\\networkserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\shared\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\shared\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\network\\networkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\network\\networkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\network\\networkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\network\\networkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\shared\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\shared\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\controller\\aigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\controller\\aigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\controller\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\controller\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\controller\\localgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\controller\\localgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|c:\\htl4\\pos\\gomoku\\gomoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{36379C2B-9DCA-4EAD-8193-D2784315E3BB}|Gomoku\\Gomoku.csproj|solutionrelative:gomoku\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkClient.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Network\\NetworkClient.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Network\\NetworkClient.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Network\\NetworkClient.cs",
+              "RelativeToolTip": "Gomoku\\Network\\NetworkClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:36:03.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkServer.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Network\\NetworkServer.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Network\\NetworkServer.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Network\\NetworkServer.cs",
+              "RelativeToolTip": "Gomoku\\Network\\NetworkServer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:35:55.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkMessage.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Network\\NetworkMessage.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Network\\NetworkMessage.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Network\\NetworkMessage.cs",
+              "RelativeToolTip": "Gomoku\\Network\\NetworkMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:35:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AiGameController.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\AiGameController.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Controller\\AiGameController.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\AiGameController.cs",
+              "RelativeToolTip": "Gomoku\\Controller\\AiGameController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADgv2EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:20:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGameController.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\IGameController.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Controller\\IGameController.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\IGameController.cs",
+              "RelativeToolTip": "Gomoku\\Controller\\IGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:12:36.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Gomoku\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Gomoku\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:21:04.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\shared\\models\\Cell.cs",
+              "RelativeDocumentMoniker": "Gomoku\\shared\\models\\Cell.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\shared\\models\\Cell.cs",
+              "RelativeToolTip": "Gomoku\\shared\\models\\Cell.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:15:11.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gameboard.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\shared\\models\\Gameboard.cs",
+              "RelativeDocumentMoniker": "Gomoku\\shared\\models\\Gameboard.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\shared\\models\\Gameboard.cs*",
+              "RelativeToolTip": "Gomoku\\shared\\models\\Gameboard.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:18:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Gomoku\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "Gomoku\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:32:51.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkGameController.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\NetworkGameController.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Controller\\NetworkGameController.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\NetworkGameController.cs*",
+              "RelativeToolTip": "Gomoku\\Controller\\NetworkGameController.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:51:29.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gomoku\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gomoku\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T17:13:48.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocalGameController.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\LocalGameController.cs",
+              "RelativeDocumentMoniker": "Gomoku\\Controller\\LocalGameController.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\Controller\\LocalGameController.cs",
+              "RelativeToolTip": "Gomoku\\Controller\\LocalGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T18:15:09.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gomoku\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\Gomoku\\Gomoku\\MainWindow.xaml",
+              "RelativeToolTip": "Gomoku\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T17:13:48.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

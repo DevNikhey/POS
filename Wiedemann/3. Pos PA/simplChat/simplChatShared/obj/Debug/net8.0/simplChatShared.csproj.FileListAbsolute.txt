@@ -1,0 +1,11 @@
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\bin\Debug\net8.0\simplChatShared.deps.json
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\bin\Debug\net8.0\simplChatShared.dll
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\bin\Debug\net8.0\simplChatShared.pdb
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\simplChatShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\simplChatShared.AssemblyInfoInputs.cache
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\simplChatShared.AssemblyInfo.cs
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\simplChatShared.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\simplChatShared.dll
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\refint\simplChatShared.dll
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\simplChatShared.pdb
+C:\HTL4\Pos\Üben\simplChat\simplChatShared\obj\Debug\net8.0\ref\simplChatShared.dll

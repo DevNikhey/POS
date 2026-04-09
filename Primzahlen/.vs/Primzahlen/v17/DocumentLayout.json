@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Primzahlen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29618B60-EDBD-4AD2-A517-767A88119E45}|Primzahlen\\Primzahlen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\primzahlen\\primzahlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29618B60-EDBD-4AD2-A517-767A88119E45}|Primzahlen\\Primzahlen.csproj|solutionrelative:primzahlen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Primzahlen\\Primzahlen\\Program.cs",
+              "RelativeDocumentMoniker": "Primzahlen\\Program.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\Primzahlen\\Primzahlen\\Program.cs",
+              "RelativeToolTip": "Primzahlen\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAArwFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:48:09.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

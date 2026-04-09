@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\Video-Player\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B77801-21C6-472A-888F-4090F33BBDDD}|Video-Player\\Video-Player.csproj|c:\\htl4\\pos\\video-player\\video-player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{42B77801-21C6-472A-888F-4090F33BBDDD}|Video-Player\\Video-Player.csproj|solutionrelative:video-player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B77801-21C6-472A-888F-4090F33BBDDD}|Video-Player\\Video-Player.csproj|c:\\htl4\\pos\\video-player\\video-player\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B77801-21C6-472A-888F-4090F33BBDDD}|Video-Player\\Video-Player.csproj|solutionrelative:video-player\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Video-Player\\Video-Player\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Video-Player\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\Video-Player\\Video-Player\\MainWindow.xaml",
+              "RelativeToolTip": "Video-Player\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-12T12:42:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Video-Player\\Video-Player\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Video-Player\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Video-Player\\Video-Player\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Video-Player\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:42:35.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

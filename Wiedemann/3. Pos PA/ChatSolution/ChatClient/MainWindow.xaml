@@ -1,0 +1,48 @@
+﻿<Window x:Class="ChatClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat" Height="500" Width="800">
+
+    <Grid Margin="10">
+
+        <!-- LOGIN -->
+        <StackPanel x:Name="LoginPanel">
+            <TextBlock Text="Login" FontSize="18"/>
+
+            <TextBox x:Name="UsernameBox" Margin="0,5"/>
+            <PasswordBox x:Name="PasswordBox" Margin="0,5"/>
+
+            <Button Content="Verbinden" Click="Connect_Click"/>
+            <Button Content="Login" Click="Login_Click"/>
+            <Button Content="Register" Click="Register_Click"/>
+
+            <TextBlock x:Name="LoginStatusText" Margin="0,10"/>
+        </StackPanel>
+
+        <!-- CHAT -->
+        <Grid x:Name="ChatPanel" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TabControl x:Name="ChatTabs" Grid.Row="0"/>
+
+            <StackPanel Orientation="Horizontal" Grid.Row="1">
+                <TextBox x:Name="RoomNameBox" Width="200"/>
+                <Button Content="Create" Click="CreateRoom_Click"/>
+                <Button Content="Join" Click="JoinSelectedRoom_Click"/>
+                <Button Content="Profile Picture" Click="SelectImage_Click"/>
+            </StackPanel>
+
+            <TextBlock x:Name="StatusText" Grid.Row="2"/>
+
+            <StackPanel Grid.Row="3" Orientation="Horizontal">
+                <TextBox x:Name="MessageBox" Width="300"/>
+                <Button Content="Send" Click="Send_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\hexagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\hexagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\rechteck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\rechteck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\kreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\kreis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\basis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\basis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\trapez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\trapez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\quadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\quadrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|c:\\users\\nikhe\\documents\\niklas\\schule\\4. klasse\\pos\\wpf formen\\wpf formen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ABAA80-1BAB-42D4-95D9-6875904C944B}|WPF Formen\\WPF Formen.csproj|solutionrelative:wpf formen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hexagram.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Hexagram.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Hexagram.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Hexagram.cs",
+              "RelativeToolTip": "WPF Formen\\Hexagram.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:03:04.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Star.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Star.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Star.cs",
+              "RelativeToolTip": "WPF Formen\\Star.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:54:52.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kreis.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Kreis.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Kreis.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Kreis.cs",
+              "RelativeToolTip": "WPF Formen\\Kreis.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:55:02.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trapez.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Trapez.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Trapez.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Trapez.cs",
+              "RelativeToolTip": "WPF Formen\\Trapez.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:37:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Quadrat.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Quadrat.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Quadrat.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Quadrat.cs",
+              "RelativeToolTip": "WPF Formen\\Quadrat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:36:25.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rechteck.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Rechteck.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Rechteck.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Rechteck.cs",
+              "RelativeToolTip": "WPF Formen\\Rechteck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:18:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basis.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Basis.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\Basis.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\Basis.cs",
+              "RelativeToolTip": "WPF Formen\\Basis.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:15:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF Formen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\MainWindow.xaml",
+              "RelativeToolTip": "WPF Formen\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T07:14:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF Formen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nikhe\\Documents\\Niklas\\Schule\\4. KLASSE\\POS\\WPF Formen\\WPF Formen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF Formen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:14:43.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

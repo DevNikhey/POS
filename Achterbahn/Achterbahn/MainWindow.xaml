@@ -1,0 +1,30 @@
+﻿<Window x:Class="Achterbahn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Achterbahn"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Anzahl Passagiere" HorizontalAlignment="Left" Margin="17,17,0,0" VerticalAlignment="Top" Height="24" Width="96" FontSize="10"/>
+        <Label Content="Anzahl Sitzplätze" HorizontalAlignment="Left" Margin="17,67,0,0" VerticalAlignment="Top" Height="24" Width="87" FontSize="10"/>
+        <Label Content="Anzahl Fahrten" HorizontalAlignment="Left" Margin="17,114,0,0" VerticalAlignment="Top" Height="24" Width="87" FontSize="10"/>
+
+        <Label x:Name="fahrtCounter" Content="Fahrt: " HorizontalAlignment="Left" Margin="17,0,0,0" VerticalAlignment="Center" Height="24" Width="87" FontSize="10"/>
+
+        <TextBox x:Name="Pass" HorizontalAlignment="Left" Margin="17,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Platz" HorizontalAlignment="Left" Margin="17,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Fahrten" HorizontalAlignment="Left" Margin="17,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Click="Button_Click" Content="Start" HorizontalAlignment="Left" Margin="57,174,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Fährt..." HorizontalAlignment="Left" Margin="286,51,0,0" VerticalAlignment="Top" Height="24" Width="87" FontSize="10"/>
+        <ListBox x:Name="riding" Margin="286,79,400,179">
+        </ListBox>
+
+        <Label Content="Gehen..." HorizontalAlignment="Left" Margin="457,51,0,0" VerticalAlignment="Top" Height="24" Width="87" FontSize="10"/>
+        <ListBox x:Name="walking" Margin="457,79,229,179">
+        </ListBox>
+
+    </Grid>
+</Window>

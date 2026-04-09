@@ -1,0 +1,21 @@
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\bin\Debug\net8.0-windows\WPF Einkaufslistengenerator.exe
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\bin\Debug\net8.0-windows\WPF Einkaufslistengenerator.deps.json
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\bin\Debug\net8.0-windows\WPF Einkaufslistengenerator.runtimeconfig.json
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\bin\Debug\net8.0-windows\WPF Einkaufslistengenerator.dll
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\bin\Debug\net8.0-windows\WPF Einkaufslistengenerator.pdb
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\App.g.cs
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator_MarkupCompile.cache
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator_MarkupCompile.lref
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.g.resources
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.AssemblyInfoInputs.cache
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.AssemblyInfo.cs
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.dll
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\refint\WPF Einkaufslistengenerator.dll
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.pdb
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\WPF Einkaufslistengenerator.genruntimeconfig.cache
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\obj\Debug\net8.0-windows\ref\WPF Einkaufslistengenerator.dll
+C:\HTL4\Pos\WPF Einkaufslistengenerator\WPF Einkaufslistengenerator\bin\Debug\net8.0-windows\Produkte.csv

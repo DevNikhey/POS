@@ -1,0 +1,11 @@
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\bin\Debug\net8.0\PenteNetwork.deps.json
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\bin\Debug\net8.0\PenteNetwork.dll
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\bin\Debug\net8.0\PenteNetwork.pdb
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\PenteNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\PenteNetwork.AssemblyInfoInputs.cache
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\PenteNetwork.AssemblyInfo.cs
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\PenteNetwork.csproj.CoreCompileInputs.cache
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\PenteNetwork.dll
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\refint\PenteNetwork.dll
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\PenteNetwork.pdb
+C:\Users\nikhe\Documents\Niklas\Projects\learn_platform\Games\Pente\PenteNetwork\obj\Debug\net8.0\ref\PenteNetwork.dll

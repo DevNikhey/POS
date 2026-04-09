@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0422D637-A444-43D8-B8D7-CE16432F0F1B}|Server\\Server.csproj|c:\\htl4\\pos\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0422D637-A444-43D8-B8D7-CE16432F0F1B}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3E85C2-23EB-4DA6-92CC-235DD1545888}|..\\Client\\Client.csproj|c:\\htl4\\pos\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0422D637-A444-43D8-B8D7-CE16432F0F1B}|Server\\Server.csproj|c:\\htl4\\pos\\server\\server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0422D637-A444-43D8-B8D7-CE16432F0F1B}|Server\\Server.csproj|solutionrelative:server\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3E85C2-23EB-4DA6-92CC-235DD1545888}|..\\Client\\Client.csproj|c:\\htl4\\pos\\client\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9389937B-3633-4862-A0B6-FB7EF91608C5}|NetworkLibrary\\NetworkLibrary.csproj|c:\\htl4\\pos\\server\\networklibrary\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9389937B-3633-4862-A0B6-FB7EF91608C5}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Server\\NetworkLibrary\\Transfer.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\Transfer.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Server\\NetworkLibrary\\Transfer.cs",
+              "RelativeToolTip": "NetworkLibrary\\Transfer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T10:41:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Server\\Server\\Message.cs",
+              "RelativeDocumentMoniker": "Server\\Message.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Server\\Server\\Message.cs",
+              "RelativeToolTip": "Server\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:00:31.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Client\\Message.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Message.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Client\\Message.cs",
+              "RelativeToolTip": "..\\Client\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:59:45.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Client\\Program.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Client\\Program.cs",
+              "RelativeToolTip": "..\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:33:17.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:32:45.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

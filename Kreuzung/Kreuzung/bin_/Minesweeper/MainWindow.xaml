@@ -1,0 +1,33 @@
+<Window x:Class="Minesweeper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Minesweeper" Width="450" Height="520"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal"
+                    HorizontalAlignment="Center" Margin="0,8,0,8">
+            <TextBlock Text="{Binding StatusText}" FontSize="18" FontWeight="Bold"
+                       VerticalAlignment="Center" Margin="0,0,16,0"/>
+            <Button Content="New Game" FontSize="14" Padding="12,4"
+                    Click="NewGame_Click"/>
+        </StackPanel>
+        <ItemsControl ItemsSource="{Binding Cells}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Rows="10" Columns="10"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Button Content="{Binding Display}"
+                            Background="{Binding BgColor}"
+                            Foreground="{Binding ForeColor}"
+                            FontSize="18" FontWeight="Bold"
+                            BorderBrush="Gray" BorderThickness="1"
+                            MouseRightButtonUp="Cell_RightClick"
+                            Click="Cell_LeftClick"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </DockPanel>
+</Window>

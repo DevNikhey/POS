@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "simplChatClient/1.0.0": {
+        "dependencies": {
+          "simplChatShared": "1.0.0"
+        },
+        "runtime": {
+          "simplChatClient.dll": {}
+        }
+      },
+      "simplChatShared/1.0.0": {
+        "runtime": {
+          "simplChatShared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simplChatClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "simplChatShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.exe
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.deps.json
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.runtimeconfig.json
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.dll
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.pdb
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.lref
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.g.resources
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfoInputs.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfo.cs
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.csproj.CoreCompileInputs.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.dll
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\refint\WPF Formen.dll
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.pdb
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.genruntimeconfig.cache
+C:\Users\Wolfgang Schermann\source\repos\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\ref\WPF Formen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.exe
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.deps.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.runtimeconfig.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\bin\Debug\net8.0-windows\WPF Formen.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen_MarkupCompile.lref
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.g.resources
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfoInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.AssemblyInfo.cs
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.csproj.CoreCompileInputs.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.sourcelink.json
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\refint\WPF Formen.dll
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.pdb
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\WPF Formen.genruntimeconfig.cache
+C:\Users\nikhe\Documents\Niklas\Schule\4. KLASSE\POS\WPF Formen\WPF Formen\obj\Debug\net8.0-windows\ref\WPF Formen.dll

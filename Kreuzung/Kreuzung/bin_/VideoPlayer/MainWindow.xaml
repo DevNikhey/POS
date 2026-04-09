@@ -1,0 +1,77 @@
+<Window x:Class="VideoPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Video Player" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen" Background="#1E1E1E">
+
+    <DockPanel>
+        <!-- Menu -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Add Video..." Click="AddVideo_Click"/>
+                <MenuItem Header="Add _Folder..." Click="AddFolder_Click"/>
+                <Separator/>
+                <MenuItem Header="_Clear Playlist" Click="ClearPlaylist_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Right sidebar: Playlist + History -->
+        <Border DockPanel.Dock="Right" Width="220" Background="#2D2D30" Padding="8">
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Top" Text="Playlist" Foreground="White" FontWeight="Bold" Margin="0,0,0,4"/>
+                <ListBox x:Name="lstPlaylist" DockPanel.Dock="Top" Height="200"
+                         Background="#1E1E1E" Foreground="White" BorderThickness="0"
+                         MouseDoubleClick="Playlist_DoubleClick">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" Margin="4,2"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <TextBlock DockPanel.Dock="Top" Text="History" Foreground="White" FontWeight="Bold" Margin="0,12,0,4"/>
+                <ListBox x:Name="lstHistory" Background="#1E1E1E" Foreground="White" BorderThickness="0"
+                         MouseDoubleClick="History_DoubleClick">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}" Margin="4,2" Opacity="0.7"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </DockPanel>
+        </Border>
+
+        <!-- Bottom: Transport controls -->
+        <Border DockPanel.Dock="Bottom" Background="#2D2D30" Padding="10">
+            <DockPanel>
+                <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" VerticalAlignment="Center">
+                    <Button Content="Mute" x:Name="btnMute" Click="Mute_Click" Width="40" Margin="8,0,0,0"/>
+                    <Slider x:Name="sliderVolume" Width="80" Minimum="0" Maximum="1" Value="0.7"
+                            VerticalAlignment="Center" Margin="8,0,0,0"
+                            ValueChanged="Volume_Changed"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Content="⏮" Click="Prev_Click" Width="36" Height="36" FontSize="16" Margin="2"/>
+                    <Button Content="▶" x:Name="btnPlay" Click="Play_Click" Width="50" Height="36" FontSize="16" Margin="2"/>
+                    <Button Content="⏹" Click="Stop_Click" Width="36" Height="36" FontSize="16" Margin="2"/>
+                    <Button Content="⏭" Click="Next_Click" Width="36" Height="36" FontSize="16" Margin="2"/>
+                </StackPanel>
+            </DockPanel>
+        </Border>
+
+        <!-- Status bar -->
+        <Border DockPanel.Dock="Bottom" Background="#333" Padding="6,2">
+            <TextBlock x:Name="txtStatus" Foreground="#AAA" FontSize="11"/>
+        </Border>
+
+        <!-- Video area -->
+        <Grid Background="Black">
+            <MediaElement x:Name="video" LoadedBehavior="Manual" UnloadedBehavior="Stop"
+                          MediaEnded="Video_MediaEnded" MediaOpened="Video_MediaOpened"
+                          Stretch="Uniform"/>
+            <TextBlock x:Name="txtNoVideo" Text="Drag &amp; drop video files or use File menu"
+                       Foreground="#666" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+    </DockPanel>
+</Window>

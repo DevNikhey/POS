@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPF_Formen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Formen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <local:Basis X1="50" Y1="50" Stroke="Blue"/>
+        <local:Rechteck X1="120" Y1="60" X2="220" Y2="120" Stroke="Red"/>
+        <local:Quadrat X1="300" Y1="80" Seitenlaenge="80" Stroke="Blue"/>
+        <local:Trapez 
+    X1="400" Y1="200"
+    X2="500" Y2="200"
+    X3="550" Y3="260"
+    X4="350" Y4="260"
+    Stroke="Blue"/>
+        <local:Kreis X1="150" Y1="200" Radius="80" Stroke="Green"/>
+        <local:Star Radius="100" Canvas.Left="655" Canvas.Top="188" Stroke="Blue"></local:Star>
+
+        <local:Hexagram Radius="100" Canvas.Left="468" Canvas.Top="115" Stroke="Blue"></local:Hexagram>
+    </Canvas>
+</Window>

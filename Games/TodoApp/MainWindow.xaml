@@ -1,0 +1,96 @@
+<Window x:Class="TodoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Todo Manager" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel>
+        <!-- ===== VERKTYGSFALT (TOOLBAR) ===== -->
+        <!-- DockPanel.Dock="Top" placerar detta langst upp -->
+        <ToolBar DockPanel.Dock="Top" Padding="5">
+            <Button Content="+ Add Task" Click="AddButton_Click"
+                    Padding="10,5" FontWeight="Bold"
+                    Background="#4CAF50" Foreground="White"/>
+            <Separator/>
+
+            <!-- Filter: ComboBox for att valja vilka uppgifter som visas -->
+            <TextBlock Text="Filter:" VerticalAlignment="Center" Margin="5,0"/>
+            <ComboBox x:Name="FilterComboBox" Width="120"
+                      SelectionChanged="FilterComboBox_SelectionChanged">
+                <ComboBoxItem Content="All" IsSelected="True"/>
+                <ComboBoxItem Content="Active"/>
+                <ComboBoxItem Content="Completed"/>
+            </ComboBox>
+            <Separator/>
+
+            <!-- Sokfalt: filtrerar uppgifter baserat pa titel -->
+            <TextBlock Text="Search:" VerticalAlignment="Center" Margin="5,0"/>
+            <TextBox x:Name="SearchTextBox" Width="200"
+                     TextChanged="SearchTextBox_TextChanged"
+                     VerticalContentAlignment="Center"/>
+        </ToolBar>
+
+        <!-- ===== STATUSFALT (STATUSBAR) ===== -->
+        <!-- DockPanel.Dock="Bottom" placerar detta langst ner -->
+        <StatusBar DockPanel.Dock="Bottom" Padding="5">
+            <TextBlock x:Name="StatusText" Text="Ready"/>
+        </StatusBar>
+
+        <!-- ===== HUVUDINNEHALL: LISTVY ===== -->
+        <!-- ListView fyller resterande utrymme i DockPanel -->
+        <ListView x:Name="TodoListView" Margin="5"
+                  GridViewColumnHeader.Click="GridViewColumnHeader_Click">
+
+            <!-- Kontextmeny (hogerklick pa ett objekt) -->
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Edit" Click="EditMenuItem_Click"/>
+                    <MenuItem Header="Delete" Click="DeleteMenuItem_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+
+            <!-- GridView definierar kolumnerna i listan -->
+            <ListView.View>
+                <GridView>
+                    <!-- Kolumn: Checkbox for att markera som avklarad -->
+                    <GridViewColumn Header="Done" Width="50">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsChecked="{Binding IsCompleted}"
+                                          Click="CheckBox_Click"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <!-- Kolumn: Titel -->
+                    <GridViewColumn Header="Title" Width="200"
+                                    DisplayMemberBinding="{Binding Title}"/>
+
+                    <!-- Kolumn: Prioritet med fargkodning -->
+                    <GridViewColumn Header="Priority" Width="80">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <!-- TextBlock med Foreground bunden till PriorityColor -->
+                                <TextBlock Text="{Binding Priority}"
+                                           Foreground="{Binding PriorityColor}"
+                                           FontWeight="Bold"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <!-- Kolumn: Forfallodatum -->
+                    <GridViewColumn Header="Due Date" Width="100"
+                                    DisplayMemberBinding="{Binding DueDate, StringFormat=yyyy-MM-dd}"/>
+
+                    <!-- Kolumn: Beskrivning -->
+                    <GridViewColumn Header="Description" Width="250"
+                                    DisplayMemberBinding="{Binding Description}"/>
+
+                    <!-- Kolumn: Status (Active / Completed) -->
+                    <GridViewColumn Header="Status" Width="90"
+                                    DisplayMemberBinding="{Binding StatusText}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</Window>

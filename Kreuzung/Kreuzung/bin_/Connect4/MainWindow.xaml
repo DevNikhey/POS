@@ -1,0 +1,60 @@
+<Window x:Class="Connect4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Connect Four" Width="560" Height="580"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize">
+    <DockPanel>
+        <!-- Status bar at top -->
+        <TextBlock x:Name="StatusText" DockPanel.Dock="Top"
+                   Text="Red's turn" FontSize="20" FontWeight="Bold"
+                   HorizontalAlignment="Center" Margin="0,8,0,4"/>
+
+        <!-- Controls -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal"
+                    HorizontalAlignment="Center" Margin="0,2,0,6">
+            <Button x:Name="NewGameBtn" Content="New Game" Width="90" Height="28"
+                    Margin="0,0,10,0" Click="NewGame_Click"/>
+            <ComboBox x:Name="ModeCombo" Width="160" Height="28"
+                      SelectedIndex="0">
+                <ComboBoxItem Content="Human vs AI"/>
+                <ComboBoxItem Content="Human vs Human"/>
+                <ComboBoxItem Content="AI vs AI"/>
+            </ComboBox>
+        </StackPanel>
+
+        <!-- Drop buttons -->
+        <UniformGrid x:Name="DropButtonRow" DockPanel.Dock="Top"
+                     Rows="1" Columns="7" Margin="10,0,10,2">
+            <Button Content="v" Tag="0" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+            <Button Content="v" Tag="1" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+            <Button Content="v" Tag="2" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+            <Button Content="v" Tag="3" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+            <Button Content="v" Tag="4" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+            <Button Content="v" Tag="5" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+            <Button Content="v" Tag="6" Click="DropButton_Click" FontWeight="Bold" Height="24"/>
+        </UniformGrid>
+
+        <!-- Board -->
+        <Border Background="DarkBlue" CornerRadius="8" Margin="10,0,10,10" Padding="4">
+            <ItemsControl x:Name="BoardControl">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Rows="6" Columns="7"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Margin="3" CornerRadius="100" Background="{Binding Color}"
+                                Width="56" Height="56" Cursor="Hand"
+                                MouseLeftButtonDown="Cell_Click">
+                            <Ellipse Width="50" Height="50"
+                                     Fill="{Binding Color}" Stroke="DarkGray" StrokeThickness="1"
+                                     HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Border>
+    </DockPanel>
+</Window>

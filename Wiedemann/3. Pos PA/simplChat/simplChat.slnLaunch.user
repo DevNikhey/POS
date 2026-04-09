@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Neues Profil",
+    "Projects": [
+      {
+        "Path": "simplChatServer\\simplChatServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "simplChatClient\\simplChatClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
