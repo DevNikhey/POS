@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\Waldwunder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\waldwunder.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\waldwunder.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\newwonderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\newwonderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\waldwunder.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\waldwunder.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\waldwunderpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\waldwunderpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\wonderdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\wonderdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|c:\\htl4\\pos\\waldwunder\\waldwunder\\wonderdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A780A-B503-4A85-9628-F9CFE2E06C0A}|Waldwunder\\Waldwunder.csproj|solutionrelative:waldwunder\\wonderdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Waldwunder.tt",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\Waldwunder.tt",
+              "RelativeDocumentMoniker": "Waldwunder\\Waldwunder.tt",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\Waldwunder.tt",
+              "RelativeToolTip": "Waldwunder\\Waldwunder.tt",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-10T17:14:24.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaldwunderPartial.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\WaldwunderPartial.cs",
+              "RelativeDocumentMoniker": "Waldwunder\\WaldwunderPartial.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\WaldwunderPartial.cs",
+              "RelativeToolTip": "Waldwunder\\WaldwunderPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:53:04.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Waldwunder.generated.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\Waldwunder.generated.cs",
+              "RelativeDocumentMoniker": "Waldwunder\\Waldwunder.generated.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\Waldwunder.generated.cs",
+              "RelativeToolTip": "Waldwunder\\Waldwunder.generated.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:08:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WonderDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\WonderDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "Waldwunder\\WonderDetailsWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\WonderDetailsWindow.xaml",
+              "RelativeToolTip": "Waldwunder\\WonderDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-10T08:19:20.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WonderDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\WonderDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Waldwunder\\WonderDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\WonderDetailsWindow.xaml.cs",
+              "RelativeToolTip": "Waldwunder\\WonderDetailsWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwvzQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:31:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewWonderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\NewWonderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Waldwunder\\NewWonderWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\NewWonderWindow.xaml.cs",
+              "RelativeToolTip": "Waldwunder\\NewWonderWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAewFkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:43:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Waldwunder\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\MainWindow.xaml",
+              "RelativeToolTip": "Waldwunder\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T09:00:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Waldwunder\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Waldwunder\\Waldwunder\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Waldwunder\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAMwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:00:23.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

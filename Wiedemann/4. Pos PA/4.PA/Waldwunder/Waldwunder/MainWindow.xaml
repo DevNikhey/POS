@@ -1,0 +1,60 @@
+﻿<Window x:Class="Waldwunder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Waldwunder"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+            <MenuItem Header="Datei"/>
+            <MenuItem Header="Neues Waldwunder"
+                Click="NewWonder_Click"/>
+        </Menu>
+
+        <Border Grid.Row="1" Grid.Column="0"
+            BorderBrush="Black"
+            BorderThickness="1">
+            <Grid>
+                <Image x:Name="AustriaMap" Source="/Images/oesterreich.png" Stretch="Fill"/>
+
+                <Canvas x:Name="MapCanvas"/>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="1"
+            BorderBrush="Black"
+            BorderThickness="1">
+            <ListBox x:Name="showListbox"/>
+        </Border>
+
+        <StackPanel Grid.Row="2"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Orientation="Horizontal">
+            <ComboBox SelectionChanged="searchTypeChanged" x:Name="searchComboBox" SelectedIndex="0" SelectedValue="Stichwort">
+                <ComboBoxItem Tag="Stichwort">Stichwort</ComboBoxItem>
+                <ComboBoxItem Tag="Art">Art</ComboBoxItem>
+                <ComboBoxItem Tag="Ort">Ort</ComboBoxItem>
+            </ComboBox>
+            <TextBox x:Name="searchTextBox" Width="200"/>
+            <TextBlock Visibility="Collapsed" x:Name="LatitudeLabel" Text="Latitude:"/>
+            <TextBox Visibility="Collapsed" x:Name="LatitudeTextBox"/>
+            <TextBlock Visibility="Collapsed" x:Name="LongitudeLabel" Text="Longitude:"/>
+            <TextBox Visibility="Collapsed" x:Name="LongitudeTextBox"/>
+            <Button Click="search" Content="Suchen"/>
+        </StackPanel>
+        <Button Grid.Column="1" Grid.Row="2" Content="Anzeigen" Click="anzeigen"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\PainterSolutionDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\colorexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\colorexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\code.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\code.generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\code.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\code.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\blockexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\blockexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\forexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\forexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\raphw\\AppData\\Local\\Temp\\.vsdbgsrc\\7df9853317a222a2c3aca718c5a2c24d22bbe3c8d3e4f82866cb1b8bc00db44a\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\drawexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\drawexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|c:\\htl4\\pos\\paintersolutiondb\\paintersolution\\turnexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7051F57B-6564-4E26-9AF3-7EBC0906F13D}|PainterSolution\\PainterSolution.csproj|solutionrelative:paintersolution\\turnexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Code.generated.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Code.generated.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\Code.generated.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Code.generated.cs",
+              "RelativeToolTip": "PainterSolution\\Code.generated.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T13:59:51.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\raphw\\AppData\\Local\\Temp\\.vsdbgsrc\\7df9853317a222a2c3aca718c5a2c24d22bbe3c8d3e4f82866cb1b8bc00db44a\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\raphw\\AppData\\Local\\Temp\\.vsdbgsrc\\7df9853317a222a2c3aca718c5a2c24d22bbe3c8d3e4f82866cb1b8bc00db44a\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\raphw\\AppData\\Local\\Temp\\.vsdbgsrc\\7df9853317a222a2c3aca718c5a2c24d22bbe3c8d3e4f82866cb1b8bc00db44a\\XamlReader.cs [Schreibgesch\u00FCtzt]",
+              "RelativeToolTip": "..\\..\\..\\Users\\raphw\\AppData\\Local\\Temp\\.vsdbgsrc\\7df9853317a222a2c3aca718c5a2c24d22bbe3c8d3e4f82866cb1b8bc00db44a\\XamlReader.cs [Schreibgesch\u00FCtzt]",
+              "ViewState": "AgIAAN8BAAAAAAAAAAApwOkBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T13:27:59.065Z",
+              "EditorCaption": " [Schreibgesch\u00FCtzt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Code.tt",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Code.tt",
+              "RelativeDocumentMoniker": "PainterSolution\\Code.tt",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Code.tt",
+              "RelativeToolTip": "PainterSolution\\Code.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-11T11:53:06.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\BlockExpression.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\BlockExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\BlockExpression.cs",
+              "RelativeToolTip": "PainterSolution\\BlockExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:31:02.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\ForExpression.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\ForExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\ForExpression.cs",
+              "RelativeToolTip": "PainterSolution\\ForExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:30:11.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\ColorExpression.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\ColorExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\ColorExpression.cs*",
+              "RelativeToolTip": "PainterSolution\\ColorExpression.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:25:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TurnExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\TurnExpression.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\TurnExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\TurnExpression.cs",
+              "RelativeToolTip": "PainterSolution\\TurnExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:37:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrawExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\DrawExpression.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\DrawExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\DrawExpression.cs",
+              "RelativeToolTip": "PainterSolution\\DrawExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:26:27.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Expression.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\Expression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Expression.cs",
+              "RelativeToolTip": "PainterSolution\\Expression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:18:41.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Programm.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\Programm.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\Programm.cs",
+              "RelativeToolTip": "PainterSolution\\Programm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:18:16.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PainterSolution\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\PainterSolutionDB\\PainterSolution\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PainterSolution\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:47:13.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

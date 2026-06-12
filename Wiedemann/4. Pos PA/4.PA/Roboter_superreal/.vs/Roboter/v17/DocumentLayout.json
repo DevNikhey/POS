@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HTL4\\Pos\\Roboter_superreal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\aufgabe2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\aufgabe2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\aufgabe1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\aufgabe1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\blockexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\blockexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\repeatexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\repeatexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\moveexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\moveexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\programm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\roboter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\roboter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|c:\\htl4\\pos\\roboter_superreal\\roboter\\collectexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAB7D43-BF65-4E91-9342-4302E9BBF2DA}|Roboter\\Roboter.csproj|solutionrelative:roboter\\collectexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Roboter",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Roboter.csproj",
+              "RelativeDocumentMoniker": "Roboter\\Roboter.csproj",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Roboter.csproj",
+              "RelativeToolTip": "Roboter\\Roboter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-07T08:33:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aufgabe1.xml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Aufgabe1.xml",
+              "RelativeDocumentMoniker": "Roboter\\Aufgabe1.xml",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Aufgabe1.xml",
+              "RelativeToolTip": "Roboter\\Aufgabe1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-06-06T12:09:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aufgabe2.xml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Aufgabe2.xml",
+              "RelativeDocumentMoniker": "Roboter\\Aufgabe2.xml",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Aufgabe2.xml",
+              "RelativeToolTip": "Roboter\\Aufgabe2.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-06-06T12:09:12.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CollectExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\CollectExpression.cs",
+              "RelativeDocumentMoniker": "Roboter\\CollectExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\CollectExpression.cs",
+              "RelativeToolTip": "Roboter\\CollectExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:16:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepeatExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\RepeatExpression.cs",
+              "RelativeDocumentMoniker": "Roboter\\RepeatExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\RepeatExpression.cs",
+              "RelativeToolTip": "Roboter\\RepeatExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:03:43.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\MoveExpression.cs",
+              "RelativeDocumentMoniker": "Roboter\\MoveExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\MoveExpression.cs",
+              "RelativeToolTip": "Roboter\\MoveExpression.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:44:16.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Programm.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Programm.cs",
+              "RelativeDocumentMoniker": "Roboter\\Programm.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Programm.cs",
+              "RelativeToolTip": "Roboter\\Programm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:14:42.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Expression.cs",
+              "RelativeDocumentMoniker": "Roboter\\Expression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Expression.cs",
+              "RelativeToolTip": "Roboter\\Expression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:11:50.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Token.cs",
+              "RelativeDocumentMoniker": "Roboter\\Token.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\Token.cs",
+              "RelativeToolTip": "Roboter\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:41:44.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Roboter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Roboter\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwG0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:34:03.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockExpression.cs",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\BlockExpression.cs",
+              "RelativeDocumentMoniker": "Roboter\\BlockExpression.cs",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\BlockExpression.cs",
+              "RelativeToolTip": "Roboter\\BlockExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:09:58.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Roboter\\MainWindow.xaml",
+              "ToolTip": "C:\\HTL4\\Pos\\Roboter_superreal\\Roboter\\MainWindow.xaml",
+              "RelativeToolTip": "Roboter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-27T12:34:08.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

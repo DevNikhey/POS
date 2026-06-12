@@ -1,0 +1,70 @@
+C:\4HTL\POS\Roboter\Roboter\bin\Debug\net8.0-windows\Roboter.exe
+C:\4HTL\POS\Roboter\Roboter\bin\Debug\net8.0-windows\Roboter.deps.json
+C:\4HTL\POS\Roboter\Roboter\bin\Debug\net8.0-windows\Roboter.runtimeconfig.json
+C:\4HTL\POS\Roboter\Roboter\bin\Debug\net8.0-windows\Roboter.dll
+C:\4HTL\POS\Roboter\Roboter\bin\Debug\net8.0-windows\Roboter.pdb
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\App.g.cs
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter_MarkupCompile.cache
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter_MarkupCompile.lref
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\MainWindow.baml
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.g.resources
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.GeneratedMSBuildEditorConfig.editorconfig
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.AssemblyInfoInputs.cache
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.AssemblyInfo.cs
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.CoreCompileInputs.cache
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.dll
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\refint\Roboter.dll
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.pdb
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\Roboter.genruntimeconfig.cache
+C:\4HTL\POS\Roboter\Roboter\obj\Debug\net8.0-windows\ref\Roboter.dll
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter_MarkupCompile.cache
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter_MarkupCompile.lref
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.dll
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\refint\Roboter.dll
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.pdb
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.exe
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.deps.json
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.runtimeconfig.json
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.dll
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.pdb
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.g.resources
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.AssemblyInfoInputs.cache
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.AssemblyInfo.cs
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.genruntimeconfig.cache
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\ref\Roboter.dll
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Aufgabe1.xml
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Aufgabe2.xml
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\AbcRobotCore.dll
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.AssemblyReference.cache
+C:\Users\Tobias Fuchs\Desktop\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.Up2Date
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Aufgabe1.xml
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Aufgabe2.xml
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.exe
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.deps.json
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.runtimeconfig.json
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.dll
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\Roboter.pdb
+C:\HTL4\Pos\Roboter_superreal\Roboter\bin\Debug\net8.0-windows\AbcRobotCore.dll
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.AssemblyReference.cache
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\App.g.cs
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter_MarkupCompile.cache
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter_MarkupCompile.lref
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\MainWindow.baml
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.g.resources
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.AssemblyInfoInputs.cache
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.AssemblyInfo.cs
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.CoreCompileInputs.cache
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.csproj.Up2Date
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.dll
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\refint\Roboter.dll
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.pdb
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\Roboter.genruntimeconfig.cache
+C:\HTL4\Pos\Roboter_superreal\Roboter\obj\Debug\net8.0-windows\ref\Roboter.dll
