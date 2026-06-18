@@ -1,0 +1,79 @@
+<Window x:Class="UE4_Medien.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UE4_Medien"
+        mc:Ignorable="d"
+        Title="UE4 Medien - Filmsammlung" Height="450" Width="820">
+    <Window.Resources>
+        <!-- Aufgabe 2: DataTemplate - pro Eintrag werden Titel und Jahr angezeigt.
+             Bindung auf die Properties des ViewModels Film (Title, Year, ...). -->
+        <DataTemplate x:Key="FilmTemplate" DataType="{x:Type local:Film}">
+            <Border BorderThickness="4">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock FontWeight="Bold" Text="{Binding Path=Title}"/>
+                    <TextBlock Text="{Binding Path=Year}"/>
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- ===== Links: Liste aller Filme ===== -->
+        <Border Grid.Column="0" BorderBrush="Black" BorderThickness="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>     <!-- ListBox fuellt den Rest und scrollt selbst -->
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" FontWeight="Bold" Margin="5" Text="Filme"/>
+
+                <ListBox Grid.Row="1" x:Name="filmListe"
+                         ItemTemplate="{StaticResource FilmTemplate}"
+                         SelectionChanged="filmListe_SelectionChanged"/>
+            </Grid>
+        </Border>
+
+        <!-- ===== Rechts: Detailansicht + Neuanlage ===== -->
+        <Border Grid.Column="1" BorderBrush="Black" BorderThickness="1">
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>   <!-- Detailtexte -->
+                    <RowDefinition Height="Auto"/>   <!-- Bewertungsleiste -->
+                    <RowDefinition Height="*"/>      <!-- Platz -->
+                    <RowDefinition Height="Auto"/>   <!-- Neuanlage -->
+                </Grid.RowDefinitions>
+
+                <!-- Detailtexte -->
+                <StackPanel Grid.Row="0" Orientation="Vertical">
+                    <TextBlock FontSize="18" FontWeight="Bold" x:Name="detailTitle" Text="(kein Film ausgewaehlt)"/>
+                    <TextBlock x:Name="detailDirector"/>
+                    <TextBlock x:Name="detailYear"/>
+                    <TextBlock x:Name="detailRating"/>
+                </StackPanel>
+
+                <!-- Bewertungsleiste (Aufgabe 4): Breite haengt von ActualWidth ab! -->
+                <Border Grid.Row="1" BorderBrush="Gray" BorderThickness="1" Height="24" Margin="0,8,0,0">
+                    <Canvas x:Name="ratingCanvas" Background="#EEE"/>
+                </Border>
+
+                <!-- Neuanlage -->
+                <StackPanel Grid.Row="3" Orientation="Vertical">
+                    <TextBlock FontWeight="Bold" Margin="0,0,0,4" Text="Neuer Film"/>
+                    <TextBox x:Name="neuTitle"    Margin="0,2" />
+                    <TextBox x:Name="neuDirector" Margin="0,2" />
+                    <TextBox x:Name="neuYear"     Margin="0,2" />
+                    <TextBox x:Name="neuRating"   Margin="0,2" />
+                    <Button  Content="Hinzufuegen" Click="Button_Click" Margin="0,4,0,0"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

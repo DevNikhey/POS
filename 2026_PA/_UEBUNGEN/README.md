@@ -40,6 +40,7 @@ cp -R 2026_PA/_UEBUNGEN/UE1_Chat/Vorgabe/* UE1_Chat/        # macOS/Linux
 - WPF baut/läuft nur unter **Windows**.
 
 ## Lösungen
-Bewusst **nicht** dabei — es ist zum Üben. Wenn du eine Übung gemacht hast und sie prüfen lassen
-willst, oder eine **Musterlösung** brauchst, sag einfach Bescheid (am besten pro Übung einzeln).
+Pro Übung liegt eine **Musterlösung** in `<UE>/Loesung/` (eine *mögliche* Lösung, nicht die einzig richtige).
+**Erst selbst versuchen, dann vergleichen!** Die `Loesung/`-Dateien sind genauso aufgebaut wie `Vorgabe/`
+(gleiche Pfade), nur fertig implementiert – zum Reinschauen oder ins Projekt kopieren.
 Zum Selbst-Check während des Lösens: `pa-check`, `lock-check` (UE5), `find-todo`, `pa-ready`.
