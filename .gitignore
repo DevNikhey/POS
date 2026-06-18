@@ -1,0 +1,13 @@
+# .NET Build-Artefakte
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Toolkit-Snapshots & Pakete
+.snapshots/
+*.zip
+
+# OS
+.DS_Store

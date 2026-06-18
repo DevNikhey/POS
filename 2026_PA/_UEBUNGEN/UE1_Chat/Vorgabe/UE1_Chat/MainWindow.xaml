@@ -1,0 +1,64 @@
+<Window x:Class="UE1_Chat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UE1_Chat"
+        mc:Ignorable="d"
+        Title="Live-Umfrage" Height="450" Width="500">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Benutzername + Verbinden -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Benutzername:" VerticalAlignment="Center" Margin="0,4"/>
+        <TextBox   Grid.Row="0" Grid.Column="1" x:Name="userNameBox" Margin="5,4"/>
+        <Button    Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+                   x:Name="connectButton" Content="Verbinden"
+                   Click="ConnectButton_Click" Margin="0,8" Padding="10,3"/>
+
+        <!-- Abstimm-Buttons -->
+        <StackPanel Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                    Orientation="Horizontal" Margin="0,8">
+            <TextBlock Text="Deine Stimme:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+            <Button x:Name="voteGoodButton" Content="Sehr gut"
+                    Click="VoteButton_Click" Tag="Sehr gut" Margin="3,0" Padding="8,3"/>
+            <Button x:Name="voteOkButton" Content="Ok"
+                    Click="VoteButton_Click" Tag="Ok" Margin="3,0" Padding="8,3"/>
+            <Button x:Name="voteBadButton" Content="Schlecht"
+                    Click="VoteButton_Click" Tag="Schlecht" Margin="3,0" Padding="8,3"/>
+        </StackPanel>
+
+        <!-- Live-Ergebnis -->
+        <TextBlock Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                   Text="Aktuelles Ergebnis:" VerticalAlignment="Top" Margin="0,8,0,0"/>
+        <ListBox   Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                   x:Name="resultListBox" Margin="0,28,0,0">
+            <!-- DataTemplate: ein VoteCount = Option + Anzahl -->
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Option}" FontWeight="Bold" Width="120"/>
+                        <TextBlock Text="{Binding Count}"/>
+                        <TextBlock Text=" Stimme(n)"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <!-- Statuszeile -->
+        <TextBlock Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"
+                   x:Name="statusText" Text="Nicht verbunden" Margin="0,8,0,0"
+                   Foreground="Gray"/>
+    </Grid>
+</Window>

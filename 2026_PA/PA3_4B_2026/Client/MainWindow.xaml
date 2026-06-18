@@ -1,0 +1,75 @@
+<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="3. praktische Arbeit" Height="450" Width="800">
+
+    <!-- Die Steuerelemente liegen direkt im Grid (NICHT in einer ListBox). -->
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Suchbegriff -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Namenssuche:" VerticalAlignment="Center" Margin="0,4"/>
+        <TextBox   Grid.Row="0" Grid.Column="1" x:Name="suche" Margin="5,4"/>
+
+        <!-- Geschlecht -->
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Geschlecht:" VerticalAlignment="Center" Margin="0,4"/>
+        <TextBox   Grid.Row="1" Grid.Column="1" x:Name="geschlecht" Margin="5,4"/>
+
+        <!-- Such-Button -->
+        <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                Content="Suchen" Click="Button_Click" Margin="0,8" Padding="10,3"/>
+
+        <!-- Gefundene Namen + Alternativen nebeneinander -->
+        <Grid Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Margin="0,0,5,0">
+                <TextBlock Text="Gefundene Namen"/>
+                <!-- ItemsSource wird im Code gesetzt; Auswahl löst Detailabfrage aus -->
+                <ComboBox x:Name="resultBox" SelectionChanged="resultBox_SelectionChanged"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                <TextBlock Text="Alternativen"/>
+                <ComboBox x:Name="alternativeBox"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Details des ausgewählten Namens -->
+        <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+            <TextBlock Text="Details"/>
+            <ListBox x:Name="detailsListBox">
+                <!-- DataTemplate: legt fest, wie ein einzelner Babyname dargestellt wird -->
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}"  FontWeight="Bold" Width="120"/>
+                            <TextBlock Text="{Binding Sex}"   Width="50"/>
+                            <TextBlock Text="Jahr: "/>
+                            <TextBlock Text="{Binding Year}"  Width="60"/>
+                            <TextBlock Text="Anzahl: "/>
+                            <TextBlock Text="{Binding Count}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

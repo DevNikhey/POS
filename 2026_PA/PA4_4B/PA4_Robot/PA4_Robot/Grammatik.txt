@@ -1,0 +1,15 @@
+<program> ::= <statement>{<statement>}
+<statement> ::= <movement> | <collect> | <place> | <conditional> | <conditional_withelse> | <definite loop> | <undefinite loop> | <block>
+<movement> ::= MOVE <direction>
+<direction> ::= LEFT | RIGHT | UP | DOWN
+<collect> ::= COLLECT
+<place> ::= PLACE
+<conditional> ::= IF <direction> IS-A <object> <block> | 
+<conditional_withelse> ::= <conditional> ELSE <block>
+<object> ::= OBSTACLE | <letter>
+<letter> ::= A | B | ... | Z
+<definite loop> ::= REPEAT <number> <block>
+<number> ::= <digit>{<digit>}
+<digit> ::= 0 | 1 | ... | 9
+<undefinite loop> ::= UNTIL <direction> IS-A <object> <block>
+<block> ::= '{' <program> '}'

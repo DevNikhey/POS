@@ -1,0 +1,57 @@
+============================================================
+  PA-CHEATSHEET (POS 4BHIF) - die wiederkehrenden Muster
+============================================================
+
+[ WPF LAYOUT ]
+  * Grid / DockPanel statt StackPanel, wenn etwas Platz fuellen/scrollen soll.
+  * KEINE fixe Height="123" fuer Listen -> Grid-Zeile Height="*".
+  * ActualWidth/ActualHeight sind im KONSTRUKTOR 0!
+    -> groessenabhaengiges Zeichnen ins Loaded-Event:
+       this.Loaded += (s,e) => Zeichnen();
+
+[ DATEN AN DIE GUI ]
+  * Liste anzeigen:   liste.ItemsSource = meineListe;   (NICHT Items.Add(liste))
+  * Reaktion auf Auswahl:  SelectionChanged-Handler -> SelectedItem auswerten.
+  * Darstellung pro Element:  <ListBox.ItemTemplate><DataTemplate> ... {Binding Feld} ...
+
+[ DEPENDENCY PROPERTY ]  (Generator: ./gen.sh dp <Klasse> <Name> <Typ>)
+  * DP-Typ MUSS == Property-Typ sein (int-Property -> typeof(int)).
+  * Zeichnen neu ausloesen:  FrameworkPropertyMetadataOptions.AffectsRender | AffectsMeasure
+  * [TypeConverter(typeof(LengthConverter))] NUR fuer LAENGEN,
+    NICHT fuer Winkel (Angle) oder Anzahlen (Ecken, Umdrehung, Count).
+
+[ EIGENES ZEICHNEN (Shape) ]
+  * class X : Shape -> DefiningGeometry ueberschreiben -> PathGeometry zurueck.
+  * PathFigure: StartPoint + Segmente HINZUFUEGEN (LineSegment/ArcSegment),
+    sonst wird NICHTS gezeichnet.
+  * IsClosed=true verbindet das letzte Ende mit dem StartPoint.
+
+[ CLIENT / SERVER (TCP) ]  (Vorlage: ./add.sh <proj> transfer)
+  * Transfer<T>: 4-Byte-Laenge VOR dem XML senden; Empfaenger liest Laenge, dann genau so viele Bytes.
+  * Pro Verbindung GENAU EIN Transfer; nur EIN Empfangsweg (OnMessageReceived) - keine zweite Schleife.
+  * GUI aus dem Empfangs-Thread nur ueber Dispatcher.Invoke(...) anfassen.
+  * Server zuerst starten, dann Client. Port frei?  ./port-check.sh <port>
+  * Verbindung testen:  ./net-probe.sh localhost <port> "TEST"
+
+[ DATENBANK (linq2db / SQLite) ]  (Vorlage: ./add.sh <proj> db)
+  * var opt = new DataOptions().UseSQLite("Data Source=meine.db");
+    using var db = new MeineDB(opt);
+  * Abfrage wird zu SQL:  db.Tabelle.Where(x => x.Name.Contains(text)).ToList();
+    (SQLite-LIKE ist standardmaessig case-INsensitiv.)
+  * Insert + neue Id:  long id = db.InsertWithInt64Identity(entity);
+  * .db in der .csproj:  CopyToOutputDirectory = PreserveNewest
+  * DB schnell ansehen:  ./db-inspect.sh meine.db
+  * Suche=Teilstring (Contains)  vs.  Detail=exakt (==).
+
+[ PARSER / INTERPRETER ]  (Vorlage: ./add.sh <proj> parser)
+  * Recursive Descent: pro Grammatik-Regel eine Klasse mit Parse()/Execute();
+    Parse() konsumiert "ihre" Tokens vorne aus der Liste (RemoveAt(0)).
+  * Optionale Keywords (z.B. ELSE) nur konsumieren, wenn der WERT passt:
+       if (tokens[0].Type == KEYWORD && tokens[0].Value == "ELSE") ...
+  * Gemeinsamer Zustand (Errors, ...) in die Basisklasse, NICHT in die GUI.
+
+[ VOR DER ABGABE ]
+  * ./pa-check.sh .        (Heuristik-Check der typischen Fehler)
+  * Unfertige Stubs?  grep -rn "NotImplementedException" .
+  * Sauber bauen, dann abgeben.
+============================================================

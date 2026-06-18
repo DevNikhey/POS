@@ -1,0 +1,19 @@
+<program>   ::= { <statement> }
+<statement> ::= LET <name> '=' <expr> | <expr>
+<expr>      ::= <term> { ('+' | '-') <term> }
+<term>      ::= <factor> { ('*' | '/') <factor> }
+<factor>    ::= <number> | <name> | '(' <expr> ')' | <if>
+<if>        ::= IF <expr> THEN <expr> [ ELSE <expr> ]
+<number>    ::= <digit> { <digit> } [ '.' <digit> { <digit> } ]
+<name>      ::= <letter> { <letter> | <digit> }
+<digit>     ::= '0' | '1' | ... | '9'
+<letter>    ::= 'a' | ... | 'z' | 'A' | ... | 'Z'
+
+# Hinweise:
+# - Punkt vor Strich: <term> (*,/) bindet staerker als <expr> (+,-),
+#   weil <expr> die <term>s aufruft und <term> die <factor>s.
+# - '(' <expr> ')' macht die Grammatik rekursiv (Recursive Descent).
+# - Der ELSE-Teil in <if> ist OPTIONAL ([ ... ]): beim Parsen darf das
+#   Keyword ELSE nur dann konsumiert werden, wenn es WIRKLICH folgt -
+#   sonst gehoert das naechste Keyword schon zur naechsten Anweisung.
+# - Bedingung in <if>: Wert != 0 gilt als 'wahr'.
