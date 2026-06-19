@@ -12,7 +12,7 @@ namespace PA4_Robot
         internal override void Execute(RobotField roboter)
         {
 
-            string result = MainWindow.previouslyCollected;
+            string result = previouslyCollected;   // geerbtes static-Feld aus Expression (A7)
 
             if(result == null || result == "")
             {

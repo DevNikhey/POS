@@ -18,9 +18,6 @@ namespace PA4_Robot
     public partial class MainWindow : Window
     {
 
-        //geteilte public variable um das collecten und placen möglich zu machen. (Könnte man sauberer lösen, aber geht ^^)
-        public static string previouslyCollected = String.Empty;
-
         public MainWindow()
         {
             InitializeComponent();

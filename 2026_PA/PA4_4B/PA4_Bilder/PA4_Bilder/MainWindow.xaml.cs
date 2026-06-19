@@ -1,6 +1,8 @@
 ﻿using DataModels;
 using ExifPhotoReader;
 using LinqToDB;
+using Microsoft.Win32;
+using System.Collections.ObjectModel;
 using PA4_Bilder;
 using System;
 using System.Diagnostics;
@@ -25,39 +27,97 @@ namespace PA4_4B
     /// </summary>
     public partial class MainWindow : Window
     {
+        // Anzeige-Liste als ObservableCollection -> neu hinzugefuegte Bilder erscheinen sofort.
+        private readonly ObservableCollection<Bild> _bilder = new();
+
+        // Marker-Daten der DB-Bilder; werden erst im Loaded gezeichnet (A4).
+        private readonly List<(double lat, double lng, Bild bild)> _markers = new();
+
         public MainWindow()
         {
             InitializeComponent();
-
             this.DataContext = this;
-
-            ExifImageProperties exifImage = ExifPhoto.GetExifDataPhoto("images/1.jpg");
-            Debug.WriteLine(exifImage.GPSInfo.Longitude + " / " + exifImage.GPSInfo.Latitude);
 
             var options = new DataOptions().UseSQLite("Data Source=photoworld.db");
             using var db = new PhotoworldDB(options);
 
-            List<Bild> list = new();
-
             foreach (var item in db.Photos.ToList())
             {
                 Bild person = new Bild();
+                person.id = (long)item.Id;                 // A6: Id setzen (sonst laedt jedes Detail images/0.jpg)
                 person.longitude = item.Lng.ToString();
                 person.latitude = item.Lat.ToString();
                 person.name = item.Name;
 
-                list.Add(person);
-                AddMarker((double) item.Lat, (double) item.Lng, person);
+                _bilder.Add(person);
+                _markers.Add(((double)item.Lat, (double)item.Lng, person));
             }
 
-            showListbox.ItemsSource = list;
+            showListbox.ItemsSource = _bilder;
 
+            // A4: ActualWidth/ActualHeight sind im Konstruktor noch 0 -> Marker erst im Loaded zeichnen.
+            this.Loaded += MainWindow_Loaded;
         }
 
+        private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            foreach (var m in _markers)
+            {
+                AddMarker(m.lat, m.lng, m.bild);
+            }
+        }
+
+        // A2: direkt per FileDialog auswaehlen (KEIN zusaetzlicher Dialog), jedes Bild
+        //     sofort in DB + Ordner uebernehmen und in Liste/Karte anzeigen.
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            NewPicture newPicture = new NewPicture();
-            newPicture.ShowDialog();
+            OpenFileDialog dialog = new OpenFileDialog
+            {
+                Multiselect = true,
+                Filter = "Bilddateien (*.jpg)|*.jpg"
+            };
+            if (dialog.ShowDialog() == true)
+            {
+                foreach (string file in dialog.FileNames)
+                {
+                    RegisterImage(file);
+                }
+            }
+        }
+
+        // Speichert ein gewaehltes Bild: in die DB einfuegen, Datei mit der DB-Id
+        // benennen (images/<id>.jpg) und in Liste + Karte aufnehmen.
+        private void RegisterImage(string file)
+        {
+            string imagesFolder = "images";
+            if (!Directory.Exists(imagesFolder))
+                Directory.CreateDirectory(imagesFolder);
+
+            ExifImageProperties exif = ExifPhoto.GetExifDataPhoto(file);
+
+            DataModels.Photo photo = new DataModels.Photo
+            {
+                Name = System.IO.Path.GetFileName(file),
+                Lat = exif.GPSInfo.Latitude,
+                Lng = exif.GPSInfo.Longitude
+            };
+
+            var options = new DataOptions().UseSQLite("Data Source=photoworld.db");
+            using var db = new PhotoworldDB(options);
+            long id = db.InsertWithInt64Identity(photo);   // A2/A6: Id holen
+
+            // Datei mit der Datenbank-Id benennen, damit changeSelected sie findet.
+            File.Copy(file, System.IO.Path.Combine(imagesFolder, id + ".jpg"), true);
+
+            Bild bild = new Bild
+            {
+                id = id,
+                name = photo.Name,
+                longitude = photo.Lng.ToString(),
+                latitude = photo.Lat.ToString()
+            };
+            _bilder.Add(bild);
+            AddMarker((double)photo.Lat, (double)photo.Lng, bild);
         }
 
         //TODO: man hätte auch lat und long aus bild nehmen können, hatte aber die zeit dafür nicht mehr

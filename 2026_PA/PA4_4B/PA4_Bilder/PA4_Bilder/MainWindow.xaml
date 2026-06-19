@@ -52,11 +52,17 @@
             BorderBrush="Black"
             BorderThickness="1">
 
-            <StackPanel Orientation="Vertical">
-                <Button Click="Button_Click">Neue Bilder</Button>
-                <ListBox ItemTemplate="{StaticResource PersonTemplate}" SelectionChanged="showListbox_SelectionChanged" ItemsSource="{Binding}" x:Name="showListbox" Height="214"/>
-                <Image x:Name="template"></Image>
-            </StackPanel>
+            <!-- A1: Grid statt StackPanel, ListBox ohne fixe Hoehe (fuellt den Platz) -->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Button Grid.Row="0" Click="Button_Click">Neue Bilder</Button>
+                <ListBox Grid.Row="1" ItemTemplate="{StaticResource PersonTemplate}" SelectionChanged="showListbox_SelectionChanged" x:Name="showListbox"/>
+                <Image Grid.Row="2" x:Name="template" MaxHeight="160"/>
+            </Grid>
         </Border>
     </Grid>
 </Window>

@@ -16,7 +16,7 @@ namespace PA4_Robot
             {
                 Errors.Add("Failed to collect. There might be no item to collect at the current position.");
             }
-            MainWindow.previouslyCollected = result;
+            previouslyCollected = result;   // geerbtes static-Feld aus Expression (A7)
         }
     }
 }

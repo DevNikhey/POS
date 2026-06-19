@@ -18,11 +18,13 @@ namespace PA4_Robot
             condition.Parse(tokens);
             block.Parse(tokens);
 
-            if (tokens.Count == 0 || tokens[0].Type != Token.TokenType.KEYWORD)
+            // A5: nur weiterlesen, wenn das naechste Keyword WIRKLICH "ELSE" ist.
+            // Sonst gehoert das Keyword zur naechsten Anweisung und darf NICHT konsumiert werden.
+            if (tokens.Count == 0 || tokens[0].Type != Token.TokenType.KEYWORD || tokens[0].Value != "ELSE")
             {
                 return;
             }
-            tokens.RemoveAt(0);
+            tokens.RemoveAt(0);   // das "ELSE"-Keyword entfernen
 
             elseblock.Parse(tokens);
         }
